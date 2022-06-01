@@ -1,0 +1,49 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	min-height: 100vh;
+	margin: 0;
+    background-color: #8B3A3A;
+}
+.pic{
+    width: 500px;
+    height: 780px;
+}
+.vien{
+	border: 10px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+	max-width: 100%;
+	margin: 20px;
+    overflow: hidden;
+	width: 1100px;
+    display: flex;
+    background: white;
+}
+h1{
+    margin-left: 20px;
+     font-size: 25px;
+}
+p{
+    margin-left: 20px;color: silver;
+    line-height: 2px;
+    font-size: 8px;
+}
+.content{
+    float: right;
+}
+.phan1{
+    font-size: 12px; 
+    line-height: 25px;
+}
+h5{
+    border-width: 12px;
+    border-style: solid;
+    border-color: #211551;
+    background-color: #211551;
+    color: white;
+    text-align: center;
+    width: 280px;
+}
